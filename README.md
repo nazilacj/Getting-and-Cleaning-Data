@@ -1,3 +1,5 @@
+#Getting and Cleaning Data
+
 For creating a tidy data set of wearable computing data originally from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones Files in this repo
 
 README.md -- you are reading it right now CodeBook.md -- codebook describing variables, the data and transformations run_analysis.R -- actual R code run_analysis.R goals
